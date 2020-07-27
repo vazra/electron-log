@@ -1,4 +1,19 @@
 # electron-log
+> Fork of electron-log(with fix for [issue#207](https://github.com/megahertz/electron-log/issues/207))
+
+you can install this either by adding 
+```
+"electron-log": "npm:moc-electron-log",
+```
+in package.json
+
+or by Installing with 
+```
+yarn add electron-log@npm:moc-electron-log
+or 
+npm i electron-log@npm:moc-electron-log --save
+```
+
 [![Build Status](https://travis-ci.org/megahertz/electron-log.svg?branch=master)](https://travis-ci.org/megahertz/electron-log)
 [![NPM version](https://badge.fury.io/js/electron-log.svg)](https://badge.fury.io/js/electron-log)
 [![Dependencies status](https://david-dm.org/megahertz/electron-log/status.svg)](https://david-dm.org/megahertz/electron-log)
